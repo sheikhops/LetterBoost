@@ -353,6 +353,7 @@ Write a SHORT, ENGAGING LinkedIn message in ${langName} that I can send directly
 - Do NOT use generic phrases like "[Company Name]" - use specific details if available from the job description.
 - Keep it human, authentic, and compelling.
 - The message must be in ${langName}.
+- Look natural, human and avoid overly complex sentences.
 - Do NOT include a subject line or "Dear [Name]" - just write the message body.
 
 Write only the message, nothing else.
