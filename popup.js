@@ -359,7 +359,7 @@ Write a SHORT, ENGAGING LinkedIn message in ${langName} that I can send directly
 Write only the message, nothing else.
 `;
 /** 
-Write a complete, professional cover letter in ${langName} that is directly ready to send. 
+Write a complete, professional linkedin message in ${langName} that is directly ready to send to the recruiter. 
 - Include relevant elements from my CV to highlight my skills and experience for the position. 
 - Use natural, readable language with standard paragraph formatting (no markdown, no brackets, no bullet points). 
 - Keep the letter concise, clear, and polite, ready to be sent by email. 
